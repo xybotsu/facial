@@ -1,8 +1,9 @@
 ### Facial Recognition Playground
 
 Short-term goals:
-• extract face from video
-• transplant face onto scene
+- [ ] pick a video processing library that uses webcam
+- [ ] extract face from video
+- [ ] transplant face onto scene
 
 Long-term goals:
-• virtual workspaces
+- [ ] virtual workspaces
